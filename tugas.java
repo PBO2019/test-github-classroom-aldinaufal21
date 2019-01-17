@@ -1,4 +1,4 @@
-class tugas1{
+class tugas{
 	public static void main(String[] args){
 		System.out.println("Hello world!");
 	}
